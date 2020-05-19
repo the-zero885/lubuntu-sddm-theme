@@ -1,0 +1,12 @@
+[SddmGreeterTheme]
+Name=Lubuntu-2.0
+Description=A new theme SDDM official for Lubuntu
+Author=the-zero885
+License=GPLv.3
+Type=sddm-theme
+Version=1.0
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=Lubuntu
