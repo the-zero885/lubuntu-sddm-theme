@@ -23,5 +23,7 @@ The icons used were courtesy of the [**Boxicons**](https://boxicons.com/) team.
 
 One of Greg Jeanneau's photos from [**Unplash**](https://unsplash.com/photos/9sxeKzuCVoE) is used, special thanks for sharing it.
 
+Special thanks to the Lubuntu art team that created the wallpapers used by the theme.
+
 ## License
 [GNU General Public License v3.0](./LICENSE)
