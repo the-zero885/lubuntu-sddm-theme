@@ -11,9 +11,9 @@ To install new themes for SDDM you must put the folder with the repository files
 
 In other distributions such as Kubuntu, through KDE's settings for Login Screen you can easily select it.
 
-## Languague and time format 
+## Language and time format 
 
-The interface of the theme is mainly in Spanish, so if you want to change the language you must open the file **theme.conf** (with any text editor) and add the respective translations to the options shown in the image seen in the preview, you can also change the time format and the wallpaper used by default, to do this put the desired wallpaper in the folder of **Wallpapers** and in the .conf you must add the name of the image followed by its extension (.jpg, .png, etc)
+The interface of the theme is mainly in English, so if you want to change the language in Spanish, you must open the directory **Translations** in the repository and replace the file **theme.conf** with the one in the **es_Es** folder. If your native language is another one, open the file **theme.conf** (with any text editor) and add the respective translations to the options shown in the image seen in the preview, you can also change the time format and the wallpaper used by default, to do this put the desired wallpaper in the folder of **Wallpapers** and in the .conf you must add the name of the image followed by its extension (.jpg, .png, etc)
 
 ## Credits
 
