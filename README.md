@@ -21,5 +21,7 @@ Based on the theme "[**Sugar Dark for SDDM**](https://github.com/MarianArlt/sddm
 
 The icons used were courtesy of the [**Boxicons**](https://boxicons.com/) team.
 
+One of Greg Jeanneau's photos from [Unplash](https://unsplash.com/photos/9sxeKzuCVoE) is used, special thanks for sharing it.
+
 ## License
 [GNU General Public License v3.0](./LICENSE)
